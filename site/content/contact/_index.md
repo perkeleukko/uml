@@ -4,6 +4,7 @@ logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
     text: "Carrer Alella 50, Barcelona 08016"
+---    
   - heading: Working hours
     text: "Monday – Sunday: 9AM – 9PM "
 ---
