@@ -1,6 +1,6 @@
 ---
-title: New title
-subtitle: Support sustainable farming while enjoying a cup
+title: Ultimate Music List
+subtitle: The most assorted list for music lovers
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
