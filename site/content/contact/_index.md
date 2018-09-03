@@ -5,10 +5,10 @@ contact_entries:
   - heading: Location
     text: 'Carrer Alella 50, Barcelona 08016'
   - heading: Working hours
-    text: |-
+    text: |2-
 
 
-      Monday – Sunday: 9AM – 9PM
+                         Monday – Sunday: 9AM – 9PM
 ---
 
 We’d love to get in touch with you and hear your ideas and
